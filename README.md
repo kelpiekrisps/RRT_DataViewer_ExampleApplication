@@ -12,6 +12,9 @@ This application was started by a seperate engineer within Keysight and fell thr
 ### GUI Changes
 Below are examples of the GUI before and after I changed the formatting. Visual representations do not show all implemented bug fixes and user testing.
 
+
+
+
 **Process Data Tab**
 
 ![alt text](images/oldRRT_mainTab.PNG)
@@ -19,6 +22,8 @@ Below are examples of the GUI before and after I changed the formatting. Visual 
 
 ![alt text](images/newRRT_mainTab.PNG)
 *Fig 2. Main tab, renamed 'Process Data' tab, after edits.*
+
+
 
 
 **View Options Tab**
@@ -30,6 +35,8 @@ Below are examples of the GUI before and after I changed the formatting. Visual 
 *Fig 4. 'View Options' tab after edits*
 
 
+
+
 **Frequency Mask Trigger/Search Tab**
 
 ![alt text](images/oldRRT_FMTTab.PNG)
@@ -37,6 +44,8 @@ Below are examples of the GUI before and after I changed the formatting. Visual 
 
 ![alt text](images/newRRT_FMSTab.PNG)
 *Fig 6. 'FMT' tab, renamed 'Frequency Mask Search' (FMS) as the feature is post-processing after edits*
+
+
 
 
 **Added Tab: Playback**
